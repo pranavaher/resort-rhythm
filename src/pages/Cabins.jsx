@@ -1,5 +1,7 @@
+/* eslint-disable no-unused-vars */
 import Heading from "../ui/Heading";
 import Row from "../ui/Row";
+import { getCabins } from "../services/apiCabins";
 
 function Cabins() {
   return (
