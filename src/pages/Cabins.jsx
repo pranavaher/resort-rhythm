@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 /* eslint-disable no-unused-vars */
 import Heading from "../ui/Heading";
 import Row from "../ui/Row";
